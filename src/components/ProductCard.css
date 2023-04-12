@@ -1,0 +1,45 @@
+
+.container{
+  width: 1100px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+.product-card{
+width: 250px;
+height: 250px;
+margin: 10px;
+ box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+border-radius: 5px;
+
+}
+img{
+  
+margin-left: 2.5rem;
+height: 120px;
+width: 120px;
+padding: 2px;
+}
+.card{
+  
+  margin-left: 15px;
+}
+.card button{
+  margin: 16px;
+  width: 200px;
+  height: 20px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.card h3{
+  font-size: 12px;
+}
+
+ 
+ 
+ 
+ 
+ 
